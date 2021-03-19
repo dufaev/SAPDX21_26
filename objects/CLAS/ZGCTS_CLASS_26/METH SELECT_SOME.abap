@@ -4,4 +4,6 @@
     SELECT * FROM t001 INTO TABLE @DATA(lt_t001).
     " row w/o error
     "SELECT bukrs, waers FROM t001 INTO TABLE @DATA(lt_t001).
+
+    "!!!
   ENDMETHOD.
