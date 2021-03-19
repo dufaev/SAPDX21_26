@@ -1,5 +1,5 @@
 METHOD GET_OBJECT_LIST.
-
+" write 1.
 " start AUnit tests - Ctrl+Shift+F10
 " user to call target services - i079666
 
